@@ -10,5 +10,3 @@ https://www.youtube.com/watch?v=MXId-Ae6k_I
 
 https://www.youtube.com/watch?v=9L2CSs2R2y4
 
-Because the example was very advanced
-
