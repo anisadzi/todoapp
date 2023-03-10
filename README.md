@@ -1,6 +1,6 @@
 # ToDo App
 
-## This repository is dedicated to Web Application Development and Security course
+### This repository is dedicated to Web Application Development and Security course
 
 
 
